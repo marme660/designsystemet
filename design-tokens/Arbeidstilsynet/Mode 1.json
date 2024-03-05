@@ -1,0 +1,16 @@
+{
+  "Primær": {
+    "grafikkgrønn": {
+      "value": "#418f84",
+      "type": "color",
+      "parent": "Arbeidstilsynet/Mode 1",
+      "description": ""
+    }
+  },
+  "Color": {
+    "value": "#ffffff",
+    "type": "color",
+    "parent": "Arbeidstilsynet/Mode 1",
+    "description": ""
+  }
+}

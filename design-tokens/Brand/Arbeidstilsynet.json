@@ -143,217 +143,708 @@
     "surface": {
       "first": {
         "light": {
-          "value": "{brand.alt1.200}",
-          "type": "color"
+          "value": "#d6f1ee",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt1.200}"
         },
         "light-hover": {
-          "value": "{brand.alt1.300}",
-          "type": "color"
+          "value": "#8dd8d0",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt1.300}"
         },
         "light-active": {
-          "value": "{brand.alt1.400}",
-          "type": "color"
+          "value": "#41beb0",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt1.400}"
         },
         "dark": {
-          "value": "{brand.alt1.800}",
-          "type": "color"
+          "value": "#34988d",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt1.800}"
         }
       },
       "second": {
         "light": {
-          "value": "{brand.alt2.200}",
-          "type": "color"
+          "value": "#ffe9b4",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt2.200}"
         },
         "light-hover": {
-          "value": "{brand.alt2.300}",
-          "type": "color"
+          "value": "#fcc771",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt2.300}"
         },
         "light-active": {
-          "value": "{brand.alt2.400}",
-          "type": "color"
+          "value": "#fbb037",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt2.400}"
         },
         "dark": {
-          "value": "{brand.alt2.900}",
-          "type": "color"
+          "value": "#965e03",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt2.900}"
         }
       },
       "third": {
         "light": {
-          "value": "{brand.alt3.200}",
-          "type": "color"
+          "value": "#b1cde7",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt3.200}"
         },
         "light-hover": {
-          "value": "{brand.alt3.300}",
-          "type": "color"
+          "value": "#81afd9",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt3.300}"
         },
         "light-active": {
-          "value": "{brand.alt3.400}",
-          "type": "color"
+          "value": "#7587bd",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt3.400}"
         },
         "dark": {
-          "value": "{brand.alt3.800}",
-          "type": "color"
+          "value": "#3c4c7d",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt3.800}"
         }
       },
       "action": {
         "first": {
           "subtle": {
-            "value": "{colors.blue.100}",
-            "type": "color"
+            "value": "#d0fbf7",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.100}"
           },
           "subtle-hover": {
-            "value": "{colors.blue.200}",
-            "type": "color"
+            "value": "#72f3e6",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.200}"
           },
           "default": {
-            "value": "{colors.blue.700}",
-            "type": "color"
+            "value": "#0b8477",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.700}"
           },
           "hover": {
-            "value": "{colors.blue.800}",
-            "type": "color"
+            "value": "#085e55",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.800}"
           },
           "active": {
-            "value": "{colors.blue.900}",
+            "value": "#064640",
             "type": "color",
-            "description": "Standard farge for handlinger"
+            "parent": "Brand/Digdir",
+            "description": "Standard farge for handlinger",
+            "oldValue": "{colors.blue.900}"
           },
           "no_fill": {
-            "value": "{colors.white}",
-            "type": "color"
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.white}"
           },
           "no_fill-hover": {
-            "value": "{colors.blue.100}",
-            "type": "color"
+            "value": "#d0fbf7",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.100}"
           },
           "no_fill-active": {
-            "value": "{colors.blue.200}",
-            "type": "color"
+            "value": "#72f3e6",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.200}"
           }
         },
         "second": {
           "subtle": {
-            "value": "{colors.grey.100}",
-            "type": "color"
+            "value": "#f5f5f5",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.grey.100}"
           },
           "subtle-hover": {
-            "value": "{colors.grey.200}",
-            "type": "color"
+            "value": "#e5e5e5",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.grey.200}"
           },
           "default": {
-            "value": "{colors.blue.900}",
-            "type": "color"
+            "value": "#333333",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.900}"
           },
           "hover": {
-            "value": "rgba({colors.blue.900}, 0.9)",
-            "type": "color"
+            "value": "#535353",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "rgba({colors.blue.900}, 0.9)"
           },
           "active": {
-            "value": "rgba({colors.blue.900}, 0.8)",
+            "value": "#666666",
             "type": "color",
-            "description": "Standard farge for handlinger"
+            "parent": "Brand/Digdir",
+            "description": "Standard farge for handlinger",
+            "oldValue": "rgba({colors.blue.900}, 0.8)"
           },
           "no_fill": {
-            "value": "{colors.white}",
-            "type": "color"
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.white}"
           },
           "no_fill-hover": {
-            "value": "rgba({colors.blue.900}, 0.1)",
-            "type": "color"
+            "value": "#f5f5f5",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "rgba({colors.blue.900}, 0.1)"
           },
           "no_fill-active": {
-            "value": "rgba({colors.blue.900}, 0.2)",
-            "type": "color"
+            "value": "#e5e5e5",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "rgba({colors.blue.900}, 0.2)"
+          },
+          "checked": {
+            "value": "#333333",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": ""
           }
+        }
+      },
+      "success": {
+        "subtle": {
+          "value": "#e5ffcc",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "subtle-hover": {
+          "value": "#cbff99",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "default": {
+          "value": "#3f8000",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "hover": {
+          "value": "#326600",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "active": {
+          "value": "#264d00",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "no_fill": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "no_fill-hover": {
+          "value": "#e5ffcc",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "no_fill-active": {
+          "value": "#cbff99",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
+      },
+      "warning": {
+        "subtle": {
+          "value": "#fff7cc",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "subtle-hover": {
+          "value": "#ffef99",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "default": {
+          "value": "#ffef99",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "default-hover": {
+          "value": "#ffe766",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
+      },
+      "info": {
+        "subtle": {
+          "value": "#d4eaf2",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "subtle-hover": {
+          "value": "#b1d9e7",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
+      },
+      "on_inverted": {
+        "default": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "hover": {
+          "value": "#ffffffe6",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "active": {
+          "value": "#ffffffcc",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "no_fill": {
+          "value": "#ffffff00",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "no_fill-hover": {
+          "value": "#ffffff1a",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "no_fill-active": {
+          "value": "#ffffff33",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "no_fill-active-dark": {
+          "value": "#0000000d",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "no-fill-active-light": {
+          "value": "#ffffff80",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
+      },
+      "danger": {
+        "no_fill": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "no_fill-active": {
+          "value": "#f9bbb8",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "no_fill-hover": {
+          "value": "#fde8e7",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "subtle": {
+          "value": "#fde8e7",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "default": {
+          "value": "#d51911",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "subtle-hover": {
+          "value": "#f9bbb8",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "hover": {
+          "value": "#a5130d",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "active": {
+          "value": "#760e09",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
         }
       }
     },
     "border": {
       "first": {
         "default": {
-          "value": "{brand.alt1.600}",
-          "type": "color"
+          "value": "#0b8477",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt1.600}"
         },
         "hover": {
-          "value": "{brand.alt1.700}",
-          "type": "color"
+          "value": "#27726a",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt1.700}"
         },
         "active": {
-          "value": "{brand.alt1.800}",
-          "type": "color"
+          "value": "#1a4c46",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt1.800}"
         }
       },
       "second": {
         "default": {
-          "value": "{brand.alt2.600}",
-          "type": "color"
+          "value": "#965e03",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt2.600}"
         },
         "hover": {
-          "value": "{brand.alt2.700}",
-          "type": "color"
+          "value": "#643f02",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt2.700}"
         },
         "active": {
-          "value": "{brand.alt2.800}",
-          "type": "color"
+          "value": "#4b2f02",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt2.800}"
         }
       },
       "third": {
         "default": {
-          "value": "{brand.alt3.600}",
-          "type": "color"
+          "value": "#3b83c4",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt3.600}"
         },
         "hover": {
-          "value": "{brand.alt3.700}",
-          "type": "color"
+          "value": "#2f689d",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt3.700}"
         },
         "active": {
-          "value": "{brand.alt3.800}",
-          "type": "color"
+          "value": "#234e76",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": "",
+          "oldValue": "{brand.alt3.800}"
         }
       },
       "action": {
         "first": {
           "subtle": {
-            "value": "{colors.blue.200}",
-            "type": "color"
+            "value": "#72f3e6",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.200}"
           },
           "subtle-hover": {
-            "value": "{colors.blue.400}",
-            "type": "color"
+            "value": "#15ead6",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.400}"
           },
           "default": {
-            "value": "{colors.blue.700}",
-            "type": "color"
+            "value": "#0b8477",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.700}"
           },
           "hover": {
-            "value": "{colors.blue.800}",
-            "type": "color"
+            "value": "#085e55",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.800}"
           },
           "active": {
-            "value": "{colors.blue.900}",
-            "type": "color"
+            "value": "#064640",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.900}"
           }
         },
         "second": {
           "subtle": {
-            "value": "{colors.grey.200}",
-            "type": "color"
+            "value": "#b4b4b4",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.grey.200}"
           },
           "subtle-hover": {
-            "value": "{colors.grey.300}",
-            "type": "color"
+            "value": "#848484",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.grey.300}"
           },
           "default": {
-            "value": "{colors.blue.900}",
-            "type": "color"
+            "value": "#333333",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.900}"
           },
           "hover": {
-            "value": "{colors.blue.900}",
-            "type": "color"
+            "value": "#333333",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.900}"
           },
           "active": {
-            "value": "{colors.blue.900}",
-            "type": "color"
+            "value": "#333333",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.900}"
+          }
+        },
+        "subtle": {
+          "value": "#b3d0ea",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "subtle-hover": {
+          "value": "#66a1d6",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "default": {
+          "value": "#0062ba",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "hover": {
+          "value": "#0062ba",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "active": {
+          "value": "#00315d",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
+      },
+      "info": {
+        "default": {
+          "value": "#246075",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
+      },
+      "success": {
+        "default": {
+          "value": "#3f8000",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "hover": {
+          "value": "#326600",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "active": {
+          "value": "#264d00",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
+      },
+      "warning": {
+        "default": {
+          "value": "#cc7005",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "hover": {
+          "value": "#995404",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "active": {
+          "value": "#663802",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
+      },
+      "danger": {
+        "default": {
+          "value": "#e02e49",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "hover": {
+          "value": "#b3253a",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "active": {
+          "value": "#861c2c",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
+      },
+      "on_inverted": {
+        "default": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
+      },
+      "input": {
+        "default": {
+          "value": "#1a4c46",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "hover": {
+          "value": "#0b8477",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
+      },
+      "divider": {
+        "default": {
+          "value": "#bcbfc5",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "subtle": {
+          "value": "#d2d5d8",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "strong": {
+          "value": "#68707c",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
+      },
+      "focus": {
+        "focus": {
+          "boxshadow": {
+            "value": "#1e2b3c",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": ""
+          },
+          "outline": {
+            "value": "#ffda06",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": ""
           }
         }
       }
@@ -362,41 +853,271 @@
       "action": {
         "first": {
           "default": {
-            "value": "{colors.blue.700}",
-            "type": "color"
+            "value": "#085e55",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.700}"
           },
           "hover": {
-            "value": "#004e95",
-            "type": "color"
+            "value": "#085e55",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "#004e95"
           },
           "active": {
-            "value": "#00315d",
-            "type": "color"
+            "value": "#085e55",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "#00315d"
           },
           "on_action": {
-            "value": "{colors.white}",
-            "type": "color"
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.white}"
           }
         },
         "second": {
           "default": {
-            "value": "{colors.blue.900}",
-            "type": "color"
+            "value": "#000000",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.900}"
           },
           "hover": {
-            "value": "{colors.blue.900}",
-            "type": "color"
+            "value": "#000000",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.900}"
           },
           "active": {
-            "value": "{colors.blue.900}",
-            "type": "color"
+            "value": "#000000",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.blue.900}"
           },
           "on_action": {
-            "value": "{colors.white}",
-            "type": "color"
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "Brand/Digdir",
+            "description": "",
+            "oldValue": "{colors.white}"
+          },
+          "String": {
+            "value": "String value",
+            "type": "text",
+            "parent": "Brand/Digdir",
+            "description": ""
           }
         }
+      },
+      "success": {
+        "default": {
+          "value": "#326600",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "hover": {
+          "value": "#264d00",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "active": {
+          "value": "#264d00",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "on-success": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "subtle": {
+          "value": "#000000",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
+      },
+      "warning": {
+        "default": {
+          "value": "#4d4000",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
+      },
+      "danger": {
+        "default": {
+          "value": "#d51911",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "hover": {
+          "value": "#760e09",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "active": {
+          "value": "#470806",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        },
+        "on_danger": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
+      },
+      "visited": {
+        "default": {
+          "value": "#7a1265",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
+      },
+      "info": {
+        "info-default": {
+          "value": "#18344e",
+          "type": "color",
+          "parent": "Brand/Digdir",
+          "description": ""
+        }
       }
+    }
+  },
+  "base_spacing": {
+    "value": "0.25rem",
+    "type": "dimension",
+    "parent": "Brand/Digdir",
+    "description": "4px"
+  },
+  "sizing": {
+    "1": {
+      "value": "0.28125rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": "4px - 4.5px"
+    },
+    "2": {
+      "value": "0.5625rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": "8px - 9px"
+    },
+    "3": {
+      "value": "0.84375rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": "12px - 13.5px"
+    },
+    "4": {
+      "value": "1.125rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": "16px - 18px"
+    },
+    "5": {
+      "value": "1.40625rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": "20px - 22.5"
+    },
+    "6": {
+      "value": "1.6875rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": "24px - 27px"
+    },
+    "7": {
+      "value": "1.96875rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": "28px - 31.5px"
+    },
+    "8": {
+      "value": "2.25rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": "32px - 36px"
+    },
+    "10": {
+      "value": "2.8125rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": "40px - 45px"
+    },
+    "12": {
+      "value": "3.375rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": "48px - 54px"
+    },
+    "14": {
+      "value": "3.9375rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": "56px - 63px"
+    },
+    "18": {
+      "value": "5.0625rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": "72px - 81px"
+    },
+    "22": {
+      "value": "6.1875rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": "88px - 99px"
+    },
+    "26": {
+      "value": "7.3125rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": "104px - 117px"
+    },
+    "30": {
+      "value": "8.4375rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": "120px - 135px"
+    }
+  },
+  "base_sizing": {
+    "value": "0.25rem",
+    "type": "dimension",
+    "parent": "Brand/Digdir",
+    "description": "4px"
+  },
+  "border_width": {
+    "default": {
+      "value": "0.0625rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": ""
+    },
+    "active": {
+      "value": "0.125rem",
+      "type": "dimension",
+      "parent": "Brand/Digdir",
+      "description": ""
     }
   }
 }
