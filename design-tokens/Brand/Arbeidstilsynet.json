@@ -633,17 +633,15 @@
             "oldValue": "{colors.blue.400}"
           },
           "default": {
-            "value": "#0b8477",
+            "value": "#085E55",
             "type": "color",
             "parent": "Brand/Digdir",
-            "description": "",
             "oldValue": "{colors.blue.700}"
           },
           "hover": {
-            "value": "#085e55",
+            "value": "#064640",
             "type": "color",
             "parent": "Brand/Digdir",
-            "description": "",
             "oldValue": "{colors.blue.800}"
           },
           "active": {
