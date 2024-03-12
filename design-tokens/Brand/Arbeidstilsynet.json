@@ -129,11 +129,11 @@
             "oldValue": "{colors.blue.900}"
           },
           "no_fill": {
-            "value": "#ffffff",
+            "value": "#ffffff00",
             "type": "color",
-            "parent": "Brand/Digdir",
+            "parent": "Brand/Arbeidstilsynet",
             "description": "",
-            "oldValue": "{colors.white}"
+            "oldValue": "#ffffff"
           },
           "no_fill-hover": {
             "value": "#d0fbf7",
@@ -187,11 +187,11 @@
             "oldValue": "rgba({colors.blue.900}, 0.8)"
           },
           "no_fill": {
-            "value": "#ffffff",
+            "value": "#ffffff00",
             "type": "color",
-            "parent": "Brand/Digdir",
+            "parent": "Brand/Arbeidstilsynet",
             "description": "",
-            "oldValue": "{colors.white}"
+            "oldValue": "#ffffff"
           },
           "no_fill-hover": {
             "value": "#f5f5f5",
@@ -493,16 +493,18 @@
             "oldValue": "{colors.blue.400}"
           },
           "default": {
-            "value": "#085E55",
+            "value": "#085e55",
             "type": "color",
-            "parent": "Brand/Digdir",
-            "oldValue": "{colors.blue.700}"
+            "parent": "Brand/Arbeidstilsynet",
+            "description": "",
+            "oldValue": "#085E55"
           },
           "hover": {
             "value": "#064640",
             "type": "color",
-            "parent": "Brand/Digdir",
-            "oldValue": "{colors.blue.800}"
+            "parent": "Brand/Arbeidstilsynet",
+            "description": "",
+            "oldValue": "#064640"
           },
           "active": {
             "value": "#064640",
@@ -858,6 +860,12 @@
           "description": ""
         }
       }
+    },
+    "Color": {
+      "value": "#ffffff",
+      "type": "color",
+      "parent": "Brand/Arbeidstilsynet",
+      "description": ""
     }
   },
   "base_spacing": {
@@ -976,6 +984,288 @@
       "type": "dimension",
       "parent": "Brand/Digdir",
       "description": ""
+    }
+  },
+  "brand": {
+    "alt1": {
+      "100": {
+        "value": "#d0fbf7",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "200": {
+        "value": "#a1f7ee",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "300": {
+        "value": "#72f3e6",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "400": {
+        "value": "#44eede",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "500": {
+        "value": "#15ead6",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "600": {
+        "value": "#11c1b0",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black brand color"
+      },
+      "700": {
+        "value": "#0b8477",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AA on black regular text, AAA on black large text, AA on white regular text, AAA on white large text"
+      },
+      "800": {
+        "value": "#085e55",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on white"
+      },
+      "900": {
+        "value": "#064640",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on white"
+      }
+    },
+    "alt3": {
+      "100": {
+        "value": "#ffe9b4",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "200": {
+        "value": "#ffe199",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "300": {
+        "value": "#ffd266",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "400": {
+        "value": "#ffc333",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "500": {
+        "value": "#ffb400",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": ""
+      },
+      "600": {
+        "value": "#cc9000",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "700": {
+        "value": "#996c00",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AA on black large text, AA on white regular text, AAA on white large text"
+      },
+      "800": {
+        "value": "#664800",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on white"
+      },
+      "900": {
+        "value": "#4d3600",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on white"
+      }
+    },
+    "alt4": {
+      "100": {
+        "value": "#d8e6f3",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "200": {
+        "value": "#b1cde7",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "300": {
+        "value": "#81afd9",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "400": {
+        "value": "#629bd0",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "500": {
+        "value": "#3b83c4",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AA on black regular text, AAA on black large text, AA on white large text"
+      },
+      "600": {
+        "value": "#2f689d",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AA on black large text, AA on white regular text, AAA on white large text"
+      },
+      "700": {
+        "value": "#234e76",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on white"
+      },
+      "800": {
+        "value": "#18344e",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on white"
+      },
+      "900": {
+        "value": "#12273b",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on white"
+      }
+    },
+    "alt2": {
+      "100": {
+        "value": "#d6f1ee",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "200": {
+        "value": "#b3e5df",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "300": {
+        "value": "#8dd8d0",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "400": {
+        "value": "#67cbc0",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "500": {
+        "value": "#41beb0",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "600": {
+        "value": "#34988d",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black large text, AA on black regular text, AA on white large text"
+      },
+      "700": {
+        "value": "#27726a",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AA on black regular text, AA on white large text"
+      },
+      "800": {
+        "value": "#1a4c46",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on white"
+      },
+      "900": {
+        "value": "#133935",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on white"
+      }
+    },
+    "alt5": {
+      "100": {
+        "value": "#dde1ee",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "200": {
+        "value": "#bac3de",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "300": {
+        "value": "#98a5cd",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "400": {
+        "value": "#7587bd",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on black"
+      },
+      "500": {
+        "value": "#5369ac",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AA on black large text, AA on white regular text, AAA on white large text"
+      },
+      "600": {
+        "value": "#3c4c7d",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on white"
+      },
+      "700": {
+        "value": "#323f67",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on white"
+      },
+      "800": {
+        "value": "#212a45",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on white"
+      },
+      "900": {
+        "value": "#191f34",
+        "type": "color",
+        "parent": "Brand/Arbeidstilsynet",
+        "description": "AAA on white"
+      }
     }
   }
 }
